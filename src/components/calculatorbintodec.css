@@ -84,3 +84,7 @@
       width: 80%;
       border-top: 1px solid #ccc;
 }
+
+input[name='decimal_answer'] {
+     user-select: auto;
+}
