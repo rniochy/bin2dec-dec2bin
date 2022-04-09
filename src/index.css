@@ -27,7 +27,6 @@ scroll-behavior: smooth;
 }
 
 body {
-   font-family: "Quicksand";
    color: var(--color-white);
    background-color: var(--color-bg);
    line-height: 1.7;
